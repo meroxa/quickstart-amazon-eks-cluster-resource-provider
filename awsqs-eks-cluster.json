@@ -1,7 +1,7 @@
 {
     "typeName": "AWSQS::EKS::Cluster",
     "description": "A resource that creates Amazon Elastic Kubernetes Service (Amazon EKS) clusters.",
-    "sourceUrl": "https://github.com/aws-quickstart/quickstart-amazon-eks-cluster-resource-provider.git",
+    "sourceUrl": "https://github.com/meroxa/quickstart-amazon-eks-cluster-resource-provider.git",
     "properties": {
         "Name": {
             "description": "A unique name for your cluster.",
