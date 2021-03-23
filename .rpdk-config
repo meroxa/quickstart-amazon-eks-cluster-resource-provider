@@ -5,9 +5,9 @@
     "entrypoint": "handler",
     "testEntrypoint": "handler",
     "settings": {
-        "importpath": "github.com/aws-quickstart/quickstart-amazon-eks-cluster-resource-provider",
-        "import_path": "github.com/aws-quickstart/quickstart-amazon-eks-cluster-resource-provider",
+        "importpath": "github.com/meroxa/quickstart-amazon-eks-cluster-resource-provider",
+        "import_path": "github.com/meroxa/quickstart-amazon-eks-cluster-resource-provider",
         "protocolVersion": "2.0.0",
-        "pluginVersion": "2.0.4"
+        "pluginVersion": "2.0.1"
     }
 }

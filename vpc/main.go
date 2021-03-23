@@ -4,11 +4,11 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/aws-quickstart/quickstart-amazon-eks-cluster-resource-provider/cmd/resource"
 	"github.com/aws/aws-lambda-go/lambda"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/jinzhu/copier"
+	"github.com/meroxa/quickstart-amazon-eks-cluster-resource-provider/cmd/resource"
 	"log"
 )
 

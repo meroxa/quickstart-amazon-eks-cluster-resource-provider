@@ -1,6 +1,6 @@
-module github.com/aws-quickstart/quickstart-amazon-eks-cluster-resource-provider
+module github.com/meroxa/quickstart-amazon-eks-cluster-resource-provider
 
-go 1.13
+go 1.16
 
 require (
 	github.com/aws-cloudformation/cloudformation-cli-go-plugin v1.0.3
